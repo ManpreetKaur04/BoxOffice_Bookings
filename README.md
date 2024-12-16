@@ -99,7 +99,7 @@ API Running: Make sure your Django server is running (e.g., python manage.py run
 
  ### DEMO RECORDING
  
- [Demo click to watch the video]()
+ [Demo click to watch the video](https://drive.google.com/file/d/192bbj-toKe_W4LrNVSTe41k9WJWgJAwT/view?usp=sharing)
  
 ### POSTMAN API Documentation
 
