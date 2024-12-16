@@ -1,29 +1,21 @@
- README.md (Example content)
+ README.md
 # Movie Booking Backend
-
-## Project Setup
-
-### Prerequisites
-- Python 3.11+
-- PostgreSQL
-- pip or poetry
 
 ### Installation
 1. Clone the repository
 2. Create a virtual environment
 3. Install dependencies: `pip install -r requirements.txt`
-4. Set up database: 
+4. Run Migrations: 
    ```bash
-   createdb movie_booking_db
-   python manage.py migrate
+   python3 manage.py makemigrations
+   python3 manage.py migrate
    ```
-
-### Running the Project
+5. Running the Project
 ```bash
 python manage.py runserver
 ```
 
 
 
-### API Documentation
+### POSTMAN API Documentation
 https://documenter.getpostman.com/view/37734920/2sAYHzG34P
